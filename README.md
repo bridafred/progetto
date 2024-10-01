@@ -6,6 +6,8 @@ Raccogliere dati riguardo alla carriera dei membri dell'assemblea costituente. D
 - Da dove vengono?
 - ...
 
-che fonti possiamo utilizzare per raccogliere materiale velocemente? E poi, come possiamo "catalogare" le informazioni in formato diigitale? Io se scrivo un nome, so se si tratta di un uomo o di una donna, MA anche il computer deve saperlo!
+Che fonti possiamo utilizzare per raccogliere materiale velocemente? E poi, come possiamo "catalogare" le informazioni in formato diigitale? Io se scrivo un nome, so se si tratta di un uomo o di una donna, MA anche il computer deve saperlo!
 
-key-value approach
+Key-value approach
+
+Una domanda possibile è: perché quelle donne erano lì? Perché quelle 5 furono elette all'assemblea dei 75? Chhe studi avevano fatto? 
