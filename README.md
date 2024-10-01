@@ -13,3 +13,5 @@ Key-value approach
 Una domanda possibile è: perché quelle donne erano lì? Perché quelle 5 furono elette all'assemblea dei 75? Chhe studi avevano fatto? 
 
 per la prossima lezione, pensa a 4-5 domande di ricerca, e rifletti sui dati di cui si ha bisogno per rispondere. Poi raccogli dati in lista. 
+
+su github si scrive in mark down, informati su come funziona
