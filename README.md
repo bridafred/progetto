@@ -5,3 +5,4 @@ Raccogliere dati riguardo alla carriera dei membri dell'assemblea costituente. D
 - Cosa hanno fatto i genitori di queste persone?
 - Da dove vengono?
 - ...
+che fonti possiamo utilizzare per raccogliere materiale velocemente? E poi, come possiamo "catalogare" le informazioni in formato diigitale? Io se scrivo un nome, so se si tratta di un uomo o di una donna, MA anche il computer deve saperlo!
